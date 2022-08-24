@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/smartserv-app/static/css/main.c8fd81a8.css",
+    "main.css": "/smartserv-app/static/css/main.11339844.css",
     "main.js": "/smartserv-app/static/js/main.490dc9a9.js",
     "static/js/787.91e0633b.chunk.js": "/smartserv-app/static/js/787.91e0633b.chunk.js",
     "index.html": "/smartserv-app/index.html",
-    "main.c8fd81a8.css.map": "/smartserv-app/static/css/main.c8fd81a8.css.map",
+    "main.11339844.css.map": "/smartserv-app/static/css/main.11339844.css.map",
     "main.490dc9a9.js.map": "/smartserv-app/static/js/main.490dc9a9.js.map",
     "787.91e0633b.chunk.js.map": "/smartserv-app/static/js/787.91e0633b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8fd81a8.css",
+    "static/css/main.11339844.css",
     "static/js/main.490dc9a9.js"
   ]
 }
