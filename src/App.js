@@ -49,7 +49,7 @@ function App() {
 
       </div>
       <div id="center">
-        <span>Count {currentIndex}</span>
+        <span>Count {currentIndex+10}</span>
       </div>
       <div id="center">
         <button class="button buttonHover" disabled={buttonDisable} onClick={handlePrevious}>Previous</button>
